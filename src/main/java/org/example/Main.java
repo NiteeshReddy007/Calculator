@@ -26,7 +26,7 @@ public class Main {
                 switch(op){
 
                     case 1:  // addition
-                        System.out.println("Add two numbers!!\n");
+                        System.out.println("Add 2 numbers!!\n");
                         System.out.print("Enter number1: \n");
                         num = reader.nextInt();
                         System.out.print("Enter number2: \n");
