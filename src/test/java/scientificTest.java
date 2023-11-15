@@ -10,9 +10,9 @@ public class scientificTest {
     }
     @Test
     public void test_add() {
-        int a = 5;
+        int a = 4;
         int a1 = 2;
-        int expectedResult = 7;
+        int expectedResult = 6;
         int result = uncalculator.add(a,a1);
         Assert.assertEquals(expectedResult, result);
     }
